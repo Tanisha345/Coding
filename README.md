@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Tanisha345/Coding/tree/master/0274-h-index) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanisha345/Coding/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanisha345/Coding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
