@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanisha345/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tanisha345/Coding/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Tanisha345/Coding/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Tanisha345/Coding/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tanisha345/Coding/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Tanisha345/Coding/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Tanisha345/Coding/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
