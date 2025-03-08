@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanisha345/Coding/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
