@@ -6,7 +6,7 @@ int diffword=0;
         diffword++;
     }
 
-    return diffword;
+    return diffword==1;
 }
 
 
@@ -23,7 +23,6 @@ public:
 
         if(haveEndWord==0) return 0;
 
-        int ans=1;
         queue< pair<string, int>> q;
         for(int i=0;i<wordList.size();i++){
             if(wordList[i]==beginWord)
@@ -41,22 +40,14 @@ q.push( {beginWord, 1});
             for(int i=0;i<wordList.size();i++){
                 if(visited[i]==0 && differ(word, wordList[i])==1){
                     visited[i]=1;
-                    ans= dist+1;
-                    q.push({wordList[i], ans});
+                    q.push({wordList[i], dist+1});
                 }
             }
 
 
         }
 
-
-       for(int i=0;i<wordList.size();i++){
-        if( wordList[i]==endWord && visited[i]==0){
-           return 0;
-        }
-       }
-
-       return ans;
+return 0;
 
 
     }
