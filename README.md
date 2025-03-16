@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanisha345/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tanisha345/Coding/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -167,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
