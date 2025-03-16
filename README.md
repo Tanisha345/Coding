@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Tanisha345/Coding/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanisha345/Coding/tree/master/0014-longest-common-prefix) |
+| [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 ## Trie
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Tanisha345/Coding/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
