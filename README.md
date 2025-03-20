@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tanisha345/Coding/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tanisha345/Coding/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Tanisha345/Coding/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tanisha345/Coding/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Tanisha345/Coding/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Tanisha345/Coding/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -182,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tanisha345/Coding/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
