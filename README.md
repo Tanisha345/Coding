@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Tanisha345/Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Tanisha345/Coding/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Tanisha345/Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Tanisha345/Coding/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Tanisha345/Coding/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
