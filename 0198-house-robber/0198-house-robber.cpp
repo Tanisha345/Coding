@@ -13,16 +13,19 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n= nums.size();
-        vector<int> dp(n, -1);
-        dp[0]=nums[0];
-        if(n>1)
-        dp[1]=max(nums[0], nums[1]);
-
+        if(n==0) return 0;
+        int prev=nums[0];
+        if(n==1) return prev;
+        int sec=max(nums[0], nums[1]);
+        if(n==2) return sec;
+        int ans=0;
         for(int i=2;i<n;i++){
-            int take= nums[i]+dp[i-2];
-            int nottake=dp[i-1];
-            dp[i]= max(take, nottake);
+            int take= nums[i]+prev;
+            int nottake=sec;
+            ans= max(take, nottake);
+            prev=sec;
+            sec=ans;
         }
-        return dp[n-1];
+        return ans;
     }
 };
