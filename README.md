@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tanisha345/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanisha345/Coding/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Tanisha345/Coding/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanisha345/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanisha345/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Tanisha345/Coding/tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tanisha345/Coding/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Tanisha345/Coding/tree/master/0189-rotate-array) |
 ## Breadth-First Search
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/Tanisha345/Coding/tree/master/1753-path-with-minimum-effort) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanisha345/Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
