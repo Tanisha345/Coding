@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tanisha345/Coding/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Tanisha345/Coding/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tanisha345/Coding/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/Tanisha345/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanisha345/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Tanisha345/Coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanisha345/Coding/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Tanisha345/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Tanisha345/Coding/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
