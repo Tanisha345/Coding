@@ -14,28 +14,20 @@ int height(TreeNode* root)
 {
     if(!root) return 0;
 
-    int left= 1+height(root->left);
-    int right= 1+height(root->right);
+    int left= height(root->left);
+    if(left==-1) return left;
+    int right= height(root->right);
 
-    return max(left, right);
-    return abs(left-right);
+    if(right==-1) return right;
+
+    if(abs(left-right)>1) return -1;
+
+    return 1+max(left, right);
 
 }
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        if(!root) return true;
-
-        int lefth= height(root->left);
-        int righth= height(root->right);
-
-        if(abs(lefth-righth)> 1) return false;
-        
-        bool l=isBalanced(root->left);
-        bool r=isBalanced(root->right);
-
-        
-
-        return l && r;
-    }
+        if(height(root)==-1)  return false;
+        return true;    }
 };
