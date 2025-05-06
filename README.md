@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Tanisha345/Coding/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tanisha345/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tanisha345/Coding/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Tanisha345/Coding/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tanisha345/Coding/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -272,5 +274,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Tanisha345/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
