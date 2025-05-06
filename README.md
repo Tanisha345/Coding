@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/Tanisha345/Coding/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanisha345/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Tanisha345/Coding/tree/master/0169-majority-element) |
+| [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanisha345/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
