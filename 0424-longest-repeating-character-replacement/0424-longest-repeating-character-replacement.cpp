@@ -14,6 +14,10 @@ public:
             while ((j - i + 1) - maxfreq > k) {
                 mp[s[i]]--;
                 i++;
+                maxfreq=0;
+                for(auto it: mp){
+                    maxfreq= max(maxfreq, it.second);
+                }
             }
 
             ans = max(ans, j - i + 1);
