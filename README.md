@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanisha345/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Tanisha345/Coding/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Tanisha345/Coding/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanisha345/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanisha345/Coding/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanisha345/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanisha345/Coding/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,4 +278,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanisha345/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanisha345/Coding/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Tanisha345/Coding/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
