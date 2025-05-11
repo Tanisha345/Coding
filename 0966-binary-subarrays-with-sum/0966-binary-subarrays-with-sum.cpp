@@ -9,10 +9,7 @@ int func(vector<int>& nums, int goal){
         while(i<=j && sum>goal){
             sum-=nums[i];
             i++;
-            cout<<i<<endl;
         }
-
-        if(i<=j)
         ans+=(j-i+1);
     }
     return ans;
