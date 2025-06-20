@@ -12,6 +12,9 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
+        ios::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         vector<vector<int>> ans;
         queue<TreeNode*> q;
         q.push(root);
@@ -23,7 +26,7 @@ public:
             for(int i=0;i<s;i++){
                 auto node= q.front();
                 q.pop();
-                temp.push_back(node->val);
+                temp.emplace_back(node->val);
                 if(node->left)
                 q.push(node->left);
                 if(node->right)
@@ -31,7 +34,7 @@ public:
                 
             }
 
-            ans.push_back(temp);
+            ans.emplace_back(temp);
             
 
         }
