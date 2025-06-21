@@ -12,6 +12,10 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
+        ios::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
+
         vector<int> ans;
         stack<TreeNode*> st;
         if(!root) return ans;
