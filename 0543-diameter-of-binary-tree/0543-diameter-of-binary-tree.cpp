@@ -9,7 +9,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 int solve(TreeNode* root, int &ans){
     if(!root) return 0;
 
@@ -19,12 +18,13 @@ int solve(TreeNode* root, int &ans){
     ans= max(ans, 1+left+right);
     return 1+ max(left, right);
 }
+
+
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        int ans=INT_MIN;
+        int ans=0;
         solve(root, ans);
-
-        return ans==INT_MIN? 0 : ans-1;
+        return ans-1;
     }
 };
