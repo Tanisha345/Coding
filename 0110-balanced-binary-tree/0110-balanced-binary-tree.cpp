@@ -18,6 +18,7 @@ int solve(TreeNode* root){
     int left= solve(root->left);
     int right= solve(root->right);
 
+    if(left==-1 || right==-1) return -1;
     if(abs(right-left)>1) return -1;
     return 1+max(left, right);
 }
