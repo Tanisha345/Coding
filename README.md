@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tanisha345/Coding/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Tanisha345/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanisha345/Coding/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Tanisha345/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanisha345/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanisha345/Coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanisha345/Coding/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tanisha345/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Tanisha345/Coding/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Tanisha345/Coding/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanisha345/Coding/tree/master/0424-longest-repeating-character-replacement) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tanisha345/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Tanisha345/Coding/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
