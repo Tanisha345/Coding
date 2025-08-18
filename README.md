@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanisha345/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tanisha345/Coding/tree/master/0733-flood-fill) |
+| [0875-longest-mountain-in-array](https://github.com/Tanisha345/Coding/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/Tanisha345/Coding/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Tanisha345/Coding/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanisha345/Coding/tree/master/0966-binary-subarrays-with-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanisha345/Coding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tanisha345/Coding/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Tanisha345/Coding/tree/master/0455-assign-cookies) |
+| [0875-longest-mountain-in-array](https://github.com/Tanisha345/Coding/tree/master/0875-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tanisha345/Coding/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanisha345/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Tanisha345/Coding/tree/master/0542-01-matrix) |
+| [0875-longest-mountain-in-array](https://github.com/Tanisha345/Coding/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Tanisha345/Coding/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
 |  |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Tanisha345/Coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tanisha345/Coding/tree/master/1370-count-number-of-nice-subarrays) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/Tanisha345/Coding/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
